@@ -48,7 +48,7 @@
         <div class="container text-center promo-content">
             <div class="upper-wrapper">
                 <h1 class="">&nbsp;</h1>
-                <h2 class="headline">赣州开发者</h2>
+                <h2 class="headline">Ganzhou Developer</h2>
                 <div class="tagline">Information technology drives Ganzhou 's economic development</div>
             </div>
         </div><!--//container-->    
@@ -66,7 +66,7 @@
                                     <p class="intro">
                                         如今，信息技术影响着每一个人的生活，衣食住行方方面面都离不开互联网 <br>
                                         在世界上市值排名前 10 的公司有 6 家是互联网或软件企业 <br>
-                                        在赣州有一群信息技术从业者，他们在时刻准备着为赣州经济发展贡献力量 
+                                        在赣州有一群信息技术从业者，他们在时刻准备着为赣州经济发展贡献力量
                                     </p><!--//intro-->
                                 </div><!--//desc-->
                             </div><!--//content-container-->
