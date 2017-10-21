@@ -303,29 +303,7 @@
     </footer><!--//footer-->
     
 
-    <!-- *****CONFIGURE STYLE (REMOVE ON YOUR PRODUCTION SITE)****** -->
-    <div id="config-panel" class="config-panel hidden-xs">
-        <div class="panel-inner">
-            <a id="config-trigger" class="config-trigger config-panel-hide" href="#"><i class="fa fa-sliders"></i></a>
-            <h5 class="panel-title">Choose Colour</h5>
-            <ul id="color-options" class="list-unstyled list-inline">
-                <li class="list-inline-item theme-1 active"><a data-style="assets/css/styles.css" href="#"></a></li>
-                <li class="list-inline-item theme-2"><a data-style="assets/css/styles-2.css" href="#"></a></li>
-                <li class="list-inline-item theme-3"><a data-style="assets/css/styles-3.css" href="#"></a></li>
-                <li class="list-inline-item theme-4"><a data-style="assets/css/styles-4.css" href="#"></a></li>                   
-                <li class="list-inline-item theme-5"><a data-style="assets/css/styles-5.css" href="#"></a></li>                     
-                <li class="list-inline-item theme-6"><a data-style="assets/css/styles-6.css" href="#"></a></li>
-                <li class="list-inline-item theme-7"><a data-style="assets/css/styles-7.css" href="#"></a></li>
-                <li class="list-inline-item theme-8"><a data-style="assets/css/styles-8.css" href="#"></a></li>                    
-                <li class="list-inline-item theme-9"><a data-style="assets/css/styles-9.css" href="#"></a></li>
-                <li class="list-inline-item theme-10"><a data-style="assets/css/styles-10.css" href="#"></a></li>
-            </ul>
-            <a id="config-close" class="close" href="#"><i class="fa fa-times-circle"></i></a>
-        </div><!--//panel-inner-->
-    </div><!--//configure-panel-->
-
- 
-    <!-- Main Javascript -->          
+    <!-- Main Javascript -->
     <script type="text/javascript" src="assets/plugins/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="assets/plugins/popper.min.js"></script> 
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>

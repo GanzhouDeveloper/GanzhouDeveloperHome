@@ -38,9 +38,20 @@ $(document).ready(function() {
 		e.preventDefault();
 		
 	});
-	
-	
-	
 
 
+    function changeThemeColor() {
+        var rid = Math.floor(Math.random() * (10 - 1 + 1) + 1);
+        var $styleSheet = 'assets/css/styles-' + rid + '.css';
+        $('#theme-style').attr('href', $styleSheet);
+
+        var $listItem = $(this).closest('li');
+        $listItem.addClass('active');
+        $listItem.siblings().removeClass('active');
+
+        e.preventDefault();
+
+    }
+
+    changeThemeColor();
 });
