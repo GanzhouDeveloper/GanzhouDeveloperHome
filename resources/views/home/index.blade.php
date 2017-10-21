@@ -64,8 +64,9 @@
                                 <h3 class="title">赣州开发者，用信息技术驱动赣州经济发展</h3>
                                 <div class="desc">
                                     <p class="intro">
-                                        如今，信息技术影响着每一个人的生活。在世界上市值排名前 10 的公司有 6 家是互联网或软件企业 <br>
-                                        在赣州有一群信息技术从业者
+                                        如今，信息技术影响着每一个人的生活，衣食住行方方面面都离不开互联网 <br>
+                                        在世界上市值排名前 10 的公司有 6 家是互联网或软件企业 <br>
+                                        在赣州有一群信息技术从业者，他们在时刻准备着为赣州经济发展贡献力量 
                                     </p><!--//intro-->
                                 </div><!--//desc-->
                             </div><!--//content-container-->
@@ -114,7 +115,7 @@
                         </div><!--//info-content-->
                         <div class="gig-actions">
                             <a class="btn btn-xs btn-ghost-secondary" data-toggle="collapse" href="#info-extra-1" aria-expanded="false" aria-controls="info-extra-1" >更多信息</a>
-                             <a class="btn btn-xs btn-secondary" href="#">报名</a>
+                             <a class="btn btn-xs btn-secondary" href="https://m.grouplus.com/b4Fe7O" target="_blank">报名</a>
                         </div><!--//gig-actions-->
                         <div id="info-extra-1" class="collapse info-extra">
                             这是赣州开发者第三期线下交流活动，继第二期活动时隔四个月。这一次我们投入更多的精力去筹备活动，相信这会是一次更精彩的活动 ~
@@ -129,10 +130,10 @@
         <div class="container">
             <h2 class="section-title">加入我们</h2>
             <div class="section-intro ml-auto mr-auto">
-                如果你是一名互联网从业者，不管你是软件工程师还是硬件工程师，亦或者是产品经理、项目经理、设计师、运维工程师 ...
-                都欢迎你加入我们这个积极的小组织中来。一起交流和分享行业知识，碰撞灵感，协同创作 ~
+                如果你是一名赣州互联网从业者，不管你是软件工程师还是硬件工程师，亦或者是产品经理、项目经理、设计师、运维工程师等，都欢迎你加入我们这个积极的小组织中来。 <br>
+                一起交流和分享行业知识，碰撞灵感，协同创作 ~
             </div>
-            <div class="members-block">
+            <div class="members-block" style="display:none;">
                 <div class="row">
                     <div class="item col-6 col-lg-3">
                         <div class="item-inner">
@@ -294,9 +295,16 @@
         <div class="container">
             <div class="footer-content text-center">
                 <div class="copyright">
-                    @2017 <strong>Ganzhou Developer</strong>
-                    <br>
-                    Powered by ProtobiaTech
+                    <p style="margin-top:10px;">
+                        @2017 <strong>Ganzhou Developer</strong>
+                        <br>
+                        EMAIL: Rod@protobia.tech
+                        <br>
+                        Information technology drives Ganzhou 's economic development
+                    </p>
+                    <small>
+                        Powered by <a href="https://www.protobia.net" target="_blank">ProtobiaTech</a>
+                    </small>
                 </div>
             </div><!--//footer-content--> 
         </div><!--//container-->
